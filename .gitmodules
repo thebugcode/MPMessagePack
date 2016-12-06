@@ -1,0 +1,3 @@
+[submodule "GHODictionary"]
+	path = GHODictionary
+	url = git@github.com:gabriel/GHODictionary.git
